@@ -33,7 +33,7 @@ customer-churn-analysis/
 │   ├── feedback_vs_churn.png
 │   └── key_insights.md
 └── data/
-└── train.csv
+└── cleaned_customer_churn.csv
 
 
 ## Key Steps Performed
@@ -58,8 +58,11 @@ customer-churn-analysis/
 precision    recall  f1-score   support
 0       0.93      0.91      0.92      3377
 1       0.92      0.94      0.93      4022
+
 accuracy                           0.93      7399
+
 macro avg       0.93      0.93      0.93      7399
+
 weighted avg       0.93      0.93      0.93      7399
 
 
