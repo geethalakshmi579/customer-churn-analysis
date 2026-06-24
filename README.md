@@ -89,11 +89,6 @@ weighted avg       0.93      0.93      0.93      7399
 3. Address common complaints related to customer service and website experience.
 4. Use the model to prioritize retention efforts on high-risk customers.
 
-Screenshots
-
-<img src="insights/churn_distribution.png" alt="Churn Distribution">
-<img src="insights/feature_importance.png" alt="Feature Importance">
-
 ## How to Run the Project
 ```bash
 # Clone the repository
